@@ -1,2 +1,2 @@
-# react-css-practice
+# react-in-codesandbox
 Created with CodeSandbox
